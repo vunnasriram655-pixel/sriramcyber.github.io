@@ -19,7 +19,7 @@ Optimizing RAM ensures that **Parrot OS runs smoothly**, especially while using 
 5. Click **OK** to save changes.
 
 <center>
-  <img src="images/19.png" alt="Hacking" width="600">
+  <img src="Images/19.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -41,7 +41,7 @@ Configuring the network in **Bridged Mode** allows the virtual machine to behave
 Enables Parrot OS to receive a **dedicated IP address from the local router**, just like the host machine.
 
 <center>
-  <img src="images/20.png" alt="Hacking" width="600">
+  <img src="Images/20.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -60,7 +60,7 @@ The shared clipboard improves productivity by allowing **text transfer between t
 Allows seamless **copy–paste functionality** between Host OS and Parrot OS.
 
 <center>
-  <img src="images/21.png" alt="Hacking" width="600">
+  <img src="Images/21.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -88,7 +88,7 @@ The `ifconfig` (**interface configuration**) command is a **classic Linux networ
 - `inet` → IPv4 address assigned to the interface
 
 <center>
-  <img src="images/22.png" alt="Hacking" width="600">
+  <img src="Images/22.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -105,11 +105,11 @@ Sends ICMP echo requests and receives replies.
 `Ctrl + C`
 
 <center>
-  <img src="images/24.png" alt="Hacking" width="600">
+  <img src="Images/24.png" alt="Hacking" width="600">
 </center>
 
 <center>
-  <img src="images/24.png" alt="Hacking" width="600">
+  <img src="Images/24.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -124,7 +124,7 @@ Modern replacement for `ifconfig`.
 - Recommended in modern Linux distributions
 
 <center>
-  <img src="images/23.png" alt="Hacking" width="600">
+  <img src="Images/23.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -156,7 +156,7 @@ Modern replacement for `ifconfig`.
 - Useful to confirm privilege level
 
 <center>
-  <img src="images/26.png" alt="Hacking" width="600">
+  <img src="Images/26.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -168,7 +168,7 @@ Modern replacement for `ifconfig`.
 - Important in network identification
 
 <center>
-  <img src="images/27.png" alt="Hacking" width="600">
+  <img src="Images/27.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -186,7 +186,7 @@ Displays complete system information.
 *Helps attackers identify kernel vulnerabilities.*
 
 <center>
-  <img src="images/28.png" alt="Hacking" width="600">
+  <img src="Images/28.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -198,7 +198,7 @@ Displays complete system information.
 - Used for log analysis and timestamps
 
 <center>
-  <img src="images/29.png" alt="Hacking" width="600">
+  <img src="Images/29.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -210,7 +210,7 @@ Displays complete system information.
 - Used to start web servers, databases, etc.
 
 <center>
-  <img src="images/31.png" alt="Hacking" width="600">
+  <img src="Images/31.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -222,7 +222,7 @@ Displays complete system information.
 - Attackers can view past commands if access is gained
 
 <center>
-  <img src="images/30.png" alt="Hacking" width="600">
+  <img src="Images/30.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -240,7 +240,7 @@ Shows running processes in real time.
 *Used to detect suspicious processes.*
 
 <center>
-  <img src="images/32.png" alt="Hacking" width="600">
+  <img src="Images/32.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -252,7 +252,7 @@ Shows running processes in real time.
 - Allows process killing using keyboard
 
 <center>
-  <img src="images/33.png" alt="Hacking" width="600">
+  <img src="Images/33.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -270,7 +270,7 @@ Shows running processes in real time.
 ---
 
 <center>
-  <img src="images/dir.png" alt="Hacking" width="600">
+  <img src="Images/dir.png" alt="Hacking" width="600">
 </center>
 
 ## `/`
@@ -321,7 +321,7 @@ Mounted external devices (USB, CD).
 Shows current working directory.
 
 <center>
-  <img src="images/34.png" alt="Hacking" width="600">
+  <img src="Images/34.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -335,25 +335,25 @@ Lists files and directories.
 ls
 
 <center>
-  <img src="images/35.png" alt="Hacking" width="600">
+  <img src="Images/35.png" alt="Hacking" width="600">
 </center>
 
 ls -l
 
 <center>
-  <img src="images/36.png" alt="Hacking" width="600">
+  <img src="Images/36.png" alt="Hacking" width="600">
 </center>
 
 ls -a
 
 <center>
-  <img src="images/37.png" alt="Hacking" width="600">
+  <img src="Images/37.png" alt="Hacking" width="600">
 </center>
 
 ls -la
 
 <center>
-  <img src="images/38.png" alt="Hacking" width="600">
+  <img src="Images/38.png" alt="Hacking" width="600">
 </center>
 
 
@@ -363,7 +363,7 @@ ls -la
 Shows help information for the `ls` command.
 
 <center>
-  <img src="images/39.png" alt="Hacking" width="600">
+  <img src="Images/39.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -374,7 +374,7 @@ Shows help information for the `ls` command.
 Displays the manual (documentation) page of a command.
 
 <center>
-  <img src="images/40.png" alt="Hacking" width="600">
+  <img src="Images/40.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -385,7 +385,7 @@ Displays the manual (documentation) page of a command.
 Displays a one-line description of a command.
 
 <center>
-  <img src="images/41.png" alt="Hacking" width="600">
+  <img src="Images/41.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -407,19 +407,19 @@ Changes the current working directory.
 - `cd`
 
 <center>
-  <img src="images/42.png" alt="Hacking" width="600">
+  <img src="Images/42.png" alt="Hacking" width="600">
 </center>
 
 - `cd ..`
 
 <center>
-  <img src="images/43.png" alt="Hacking" width="600">
+  <img src="Images/43.png" alt="Hacking" width="600">
 </center>
 
 - `cd /home/user`
 
 <center>
-  <img src="images/44.png" alt="Hacking" width="600">
+  <img src="Images/44.png" alt="Hacking" width="600">
 </center>
 
 
@@ -444,7 +444,7 @@ Runs multiple commands sequentially.
 The next command executes only if the previous command is successful.
 
 <center>
-  <img src="images/45.png" alt="Hacking" width="600">
+  <img src="Images/45.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -455,7 +455,7 @@ The next command executes only if the previous command is successful.
 Creates a new directory.
 
 <center>
-  <img src="images/46.png" alt="Hacking" width="600">
+  <img src="Images/46.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -466,7 +466,7 @@ Creates a new directory.
 Creates an empty file.
 
 <center>
-  <img src="images/47.png" alt="Hacking" width="600">
+  <img src="Images/47.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -478,7 +478,7 @@ Displays the contents of a file.
 *Read-only display.*
 
 <center>
-  <img src="images/48.png" alt="Hacking" width="600">
+  <img src="Images/48.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -489,7 +489,7 @@ Displays the contents of a file.
 Graphical (GUI) text editor available in Parrot OS.
 
 <center>
-  <img src="images/49.png" alt="Hacking" width="600">
+  <img src="Images/49.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -500,7 +500,7 @@ Graphical (GUI) text editor available in Parrot OS.
 Terminal-based text editor available in all Linux distributions.
 
 <center>
-  <img src="images/50.png" alt="Hacking" width="600">
+  <img src="Images/50.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -511,7 +511,7 @@ Terminal-based text editor available in all Linux distributions.
 Switches the current user to the root (superuser).
 
 <center>
-  <img src="images/51.png" alt="Hacking" width="600">
+  <img src="Images/51.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -522,7 +522,7 @@ Switches the current user to the root (superuser).
 Copies files or directories.
 
 <center>
-  <img src="images/52.png" alt="Hacking" width="600">
+  <img src="Images/52.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -533,7 +533,7 @@ Copies files or directories.
 Deletes a file.
 
 <center>
-  <img src="images/54.png" alt="Hacking" width="600">
+  <img src="Images/54.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -544,7 +544,7 @@ Deletes a file.
 Deletes an empty directory.
 
 <center>
-  <img src="images/55.png" alt="Hacking" width="600">
+  <img src="Images/55.png" alt="Hacking" width="600">
 </center>
 
 ---
@@ -555,7 +555,7 @@ Deletes an empty directory.
 Moves or renames files and directories.
 
 <center>
-  <img src="images/53.png" alt="Hacking" width="600">
+  <img src="Images/53.png" alt="Hacking" width="600">
 </center>
 
 ---
