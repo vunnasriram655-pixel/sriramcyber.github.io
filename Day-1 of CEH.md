@@ -6,7 +6,7 @@
 Hacking is the process of **identifying weaknesses** in a computer system, network, or application and **exploiting them** to gain access, control, or information.
 
 <center>
-  <img src="images/hacking.jpg" alt="Hacking" width="600">
+  <img src="Images/hacking.jpg" alt="Hacking" width="600">
 </center>
 
 Hacking can be done for:
@@ -19,7 +19,7 @@ Hacking can be done for:
 Ethical hacking is the **authorized and legal practice** of testing systems for security vulnerabilities.
 
 <center>
-  <img src="images/ethical hacking.jpg" alt="ethical Hacking" width="600">
+  <img src="Images/ethical hacking.jpg" alt="ethical Hacking" width="600">
 </center>
 
 An **ethical hacker**:
@@ -37,7 +37,7 @@ Ethical hacking is also known as:
 Hackers are classified based on **intent and authorization**.
 
 <center>
-  <img src="images/types of hackers.jpg" alt="types of Hackers" width="600">
+  <img src="Images/types of hackers.jpg" alt="types of Hackers" width="600">
 </center>
 
 - **Ethical Hackers** – Hack to secure systems
@@ -111,7 +111,7 @@ These GPT types are used or learn for **awareness and defense**, not for misuse.
 ---
 
 <center>
-  <img src="images/Ethical-hacking-process.png" alt="steps for hacking" width="600">
+  <img src="Images/Ethical-hacking-process.png" alt="steps for hacking" width="600">
 </center>
 
 ### 1. Reconnaissance (Information Gathering)
@@ -185,7 +185,7 @@ The intrusion cycle describes **how an attack progresses** from start to finish.
 ---
 
 <center>
-  <img src="images/Intrusion_Kill_Chain.png" alt="Intrusion Kill Chain" width="600">
+  <img src="Images/Intrusion_Kill_Chain.png" alt="Intrusion Kill Chain" width="600">
 </center>
 
 
@@ -242,7 +242,7 @@ In CEH, it is commonly used to create **practice labs**.
 ### Step 1: Check System Requirements
 
 <center>
-  <img src="images/1.png" alt="1" width="600">
+  <img src="Images/1.png" alt="1" width="600">
 </center>
 
 Before installing VirtualBox, ensure that:
@@ -255,11 +255,11 @@ Before installing VirtualBox, ensure that:
 ### Step 2: Download VirtualBox
 
 <center>
-  <img src="images/2.png" alt="2" width="600">
+  <img src="Images/2.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/3.png" alt="3" width="600">
+  <img src="Images/3.png" alt="3" width="600">
 </center>
 
 1. Open a web browser
@@ -274,7 +274,7 @@ Before installing VirtualBox, ensure that:
 ### Step 3: Run the Installer
 
 <center>
-  <img src="images/4.png" alt="4" width="600">
+  <img src="Images/4.png" alt="4" width="600">
 </center>
 
 1. Open the downloaded installer file
@@ -286,11 +286,11 @@ Before installing VirtualBox, ensure that:
 ### Step 4: Select Components
 
 <center>
-  <img src="images/5.png" alt="5" width="600">
+  <img src="Images/5.png" alt="5" width="600">
 </center>
 
 <center>
-  <img src="images/6.png" alt="6" width="600">
+  <img src="Images/6.png" alt="6" width="600">
 </center>
 
 During installation:
@@ -304,7 +304,7 @@ Click **Next** to continue.
 ### Step 5: Install VirtualBox
 
 <center>
-  <img src="images/7.png" alt="7" width="600">
+  <img src="Images/7.png" alt="7" width="600">
 </center>
 1. Click **Install**
 2. Allow permissions if prompted
@@ -315,11 +315,11 @@ Click **Next** to continue.
 ### Step 6: Finish Installation
 
 <center>
-  <img src="images/8.png" alt="8" width="600">
+  <img src="Images/8.png" alt="8" width="600">
 </center>
 
 <center>
-  <img src="images/9.png" alt="9" width="600">
+  <img src="Images/9.png" alt="9" width="600">
 </center>
 
 
@@ -331,7 +331,7 @@ Click **Next** to continue.
 ### Step 7: Verify Installation
 
 <center>
-  <img src="images/10.png" alt="10" width="600">
+  <img src="Images/10.png" alt="10" width="600">
 </center>
 
 - Open VirtualBox
@@ -357,19 +357,19 @@ This method is commonly used in **CEH labs**.
 
 
 <center>
-  <img src="images/11.png" alt="11" width="600">
+  <img src="Images/11.png" alt="11" width="600">
 </center>
 
 <center>
-  <img src="images/12.png" alt="12" width="600">
+  <img src="Images/12.png" alt="12" width="600">
 </center>
 
 <center>
-  <img src="images/13.png" alt="13" width="600">
+  <img src="Images/13.png" alt="13" width="600">
 </center>
 
 <center>
-  <img src="images/14.png" alt="14" width="600">
+  <img src="Images/14.png" alt="14" width="600">
 </center>
 
 - Download the official **Parrot OS OVA file**
@@ -380,7 +380,7 @@ This method is commonly used in **CEH labs**.
 ### Step 3: Open VirtualBox
 
 <center>
-  <img src="images/15.png" alt="15" width="600">
+  <img src="Images/15.png" alt="15" width="600">
 </center>
 
 1. Launch **VirtualBox**
@@ -391,7 +391,7 @@ This method is commonly used in **CEH labs**.
 ### Step 4: Import the Appliance
 
 <center>
-  <img src="images/16.png" alt="16" width="600">
+  <img src="Images/16.png" alt="16" width="600">
 </center>
 
 1. Click **Import**
@@ -404,7 +404,7 @@ VirtualBox will automatically create the virtual machine.
 ### Step 5: Start Parrot OS
 
 <center>
-  <img src="images/17.png" alt="17" width="600">
+  <img src="Images/17.png" alt="17" width="600">
 </center>
 
 1. Select **Parrot OS** from the VirtualBox list
@@ -416,7 +416,7 @@ VirtualBox will automatically create the virtual machine.
 ### Step 6: Login to Parrot OS
 
 <center>
-  <img src="images/18.png" alt="18" width="600">
+  <img src="Images/18.png" alt="18" width="600">
 </center>
 
 - Use the default credentials provided with the OVA file  
