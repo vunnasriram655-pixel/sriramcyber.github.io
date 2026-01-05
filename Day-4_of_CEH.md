@@ -17,11 +17,11 @@ In Linux, tools can be installed without using GitHub or git clone by directly i
 1. Download Angry IP Scanner from the official website using the `.deb` package.
 
 <center>
-  <img src="images/85.png" alt="steps for hacking" width="600">
+  <img src="Images/85.png" alt="steps for hacking" width="600">
 </center>
 
 <center>
-  <img src="images/86.png" alt="steps for hacking" width="600">
+  <img src="Images/86.png" alt="steps for hacking" width="600">
 </center>
 
 2. Go to the Downloads directory.
@@ -31,13 +31,13 @@ In Linux, tools can be installed without using GitHub or git clone by directly i
       - dpkg -i <package name> refers to install.
 
       <center>
-        <img src="images/87.png" alt="steps for hacking" width="600">
+        <img src="Images/87.png" alt="steps for hacking" width="600">
       </center>
 
 6. Verify installation by searching the tool in the system search bar.
 
 <center>
-  <img src="images/88.png" alt="steps for hacking" width="600">
+  <img src="Images/88.png" alt="steps for hacking" width="600">
 </center>
 
 ---
@@ -71,11 +71,11 @@ Whenever an attack is performed on a server, the public IP address is logged.
 Using this public IP address, attackers can be tracked.
 
 <center>
-  <img src="images/89.png" alt="steps for hacking" width="600">
+  <img src="Images/89.png" alt="steps for hacking" width="600">
 </center>
  
 <center>
-  <img src="images/ip explai.jpeg" alt="steps for hacking" width="600">
+  <img src="Images/ip explai.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
@@ -84,7 +84,7 @@ To check the public IP address:
 - The result will be the same in Parrot OS and Windows.
 
 <center>
-  <img src="images/90.png" alt="steps for hacking" width="600">
+  <img src="Images/90.png" alt="steps for hacking" width="600">
 </center>
 
 
@@ -97,7 +97,7 @@ To check the public IP address:
 A proxy server acts as an intermediary between a user and the internet, masking the real IP address.
  
 <center>
-  <img src="images/proxy.jpeg" alt="steps for hacking" width="600">
+  <img src="Images/proxy.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
@@ -121,7 +121,7 @@ A proxy server acts as an intermediary between a user and the internet, masking 
 2. Search for Free Proxy List.
   
 <center>
-  <img src="images/91.png" alt="steps for hacking" width="600">
+  <img src="Images/91.png" alt="steps for hacking" width="600">
 </center>
 
 3. Copy the proxy IP address and port number.
@@ -132,7 +132,7 @@ A proxy server acts as an intermediary between a user and the internet, masking 
 8. Paste the IP address in HTTP Proxy and the port number.
   
 <center>
-  <img src="images/92.png" alt="steps for hacking" width="600">
+  <img src="Images/92.png" alt="steps for hacking" width="600">
 </center>
 
 9. Enable HTTPS proxy.
@@ -141,7 +141,7 @@ A proxy server acts as an intermediary between a user and the internet, masking 
 12. Disable proxy by selecting Use system proxy settings.
   
 <center>
-  <img src="images/93.png" alt="steps for hacking" width="600">
+  <img src="Images/93.png" alt="steps for hacking" width="600">
 </center>
 
 ---
@@ -153,7 +153,7 @@ A proxy server acts as an intermediary between a user and the internet, masking 
 A VPN encrypts internet traffic and hides the real IP address, providing privacy and anonymity.
  
 <center>
-  <img src="images/vpn.jpeg" alt="steps for hacking" width="600">
+  <img src="Images/vpn.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
@@ -170,14 +170,14 @@ A VPN encrypts internet traffic and hides the real IP address, providing privacy
 5. Open the extension.
   
 <center>
-  <img src="images/94.png" alt="steps for hacking" width="600">
+  <img src="Images/94.png" alt="steps for hacking" width="600">
 </center>
 
 6. Click Connect.
 7. Verify the IP address using whatismyipaddress.
   
 <center>
-  <img src="images/95.png" alt="steps for hacking" width="600">
+  <img src="Images/95.png" alt="steps for hacking" width="600">
 </center>
 
 
@@ -203,13 +203,13 @@ A VPN encrypts internet traffic and hides the real IP address, providing privacy
 3. Choose protocol UDP or TCP.
   
 <center>
-  <img src="images/96.png" alt="steps for hacking" width="600">
+  <img src="Images/96.png" alt="steps for hacking" width="600">
 </center>
 
 4. Select a server with low load.
   
 <center>
-  <img src="images/97.png" alt="steps for hacking" width="600">
+  <img src="Images/97.png" alt="steps for hacking" width="600">
 </center>
 
 5. Download the `.ovpn` configuration file.
@@ -223,7 +223,7 @@ A VPN encrypts internet traffic and hides the real IP address, providing privacy
 3. Choose the downloaded `.ovpn` file.
   
 <center>
-  <img src="images/98.png" alt="steps for hacking" width="600">
+  <img src="Images/98.png" alt="steps for hacking" width="600">
 </center>
 
 4. Enter the Proton VPN username (IKEv2 username) and password.
@@ -237,18 +237,18 @@ A VPN encrypts internet traffic and hides the real IP address, providing privacy
 2. If the message "Initialization Sequence Completed" appears, the VPN is connected.
  
 <center>
-  <img src="images/99.png" alt="steps for hacking" width="600">
+  <img src="Images/99.png" alt="steps for hacking" width="600">
 </center>
  
 <center>
-  <img src="images/100.png" alt="steps for hacking" width="600">
+  <img src="Images/100.png" alt="steps for hacking" width="600">
 </center>
 
 3. Stop the VPN using Ctrl + C.
 4. Verify the connection using whatismyipaddress.
  
 <center>
-  <img src="images/101.png" alt="steps for hacking" width="600">
+  <img src="Images/101.png" alt="steps for hacking" width="600">
 </center>
 
 ---
@@ -256,7 +256,7 @@ A VPN encrypts internet traffic and hides the real IP address, providing privacy
 ## 6. Types of Web
  
 <center>
-  <img src="images/surface.jpeg" alt="steps for hacking" width="600">
+  <img src="Images/surface.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
@@ -291,7 +291,7 @@ A VPN encrypts internet traffic and hides the real IP address, providing privacy
 Tor routes internet traffic through multiple encrypted nodes, hiding the user's identity.
  
 <center>
-  <img src="images/tor.jpeg" alt="steps for hacking" width="600">
+  <img src="Images/tor.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
@@ -303,17 +303,17 @@ Tor routes internet traffic through multiple encrypted nodes, hiding the user's 
 2. Search for Tor Browser Linux.
  
 <center>
-  <img src="images/102.png" alt="steps for hacking" width="600">
+  <img src="Images/102.png" alt="steps for hacking" width="600">
 </center>
  
 <center>
-  <img src="images/103.png" alt="steps for hacking" width="600">
+  <img src="Images/103.png" alt="steps for hacking" width="600">
 </center>
 
 3. Download the `.xz` file.
  
 <center>
-  <img src="images/104.png" alt="steps for hacking" width="600">
+  <img src="Images/104.png" alt="steps for hacking" width="600">
 </center>
 
 4. Fix broken packages.
@@ -336,11 +336,11 @@ Tor routes internet traffic through multiple encrypted nodes, hiding the user's 
 3. Click Connect.
  
 <center>
-  <img src="images/105.png" alt="steps for hacking" width="600">
+  <img src="Images/105.png" alt="steps for hacking" width="600">
 </center>
  
 <center>
-  <img src="images/106.png" alt="steps for hacking" width="600">
+  <img src="Images/106.png" alt="steps for hacking" width="600">
 </center>
 
 4. Wait for the Tor network connection.
