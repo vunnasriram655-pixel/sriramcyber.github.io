@@ -8,7 +8,7 @@
 Footprinting is the first phase of ethical hacking and penetration testing. It involves gathering as much information as possible about a target system, network, or organization before attempting any attack. The goal is to understand the target’s infrastructure and reduce uncertainty.
 
 <center>
-  <img src="images/107.jpg" alt="Footprinting" width="600">
+  <img src="Images/107.jpg" alt="Footprinting" width="600">
 </center>
 
 Footprinting can be:
@@ -20,7 +20,7 @@ Footprinting can be:
 ## 2. Types of Footprinting
 
 <center>
-  <img src="images/108.png" alt="Types of Footprinting" width="600">
+  <img src="Images/108.png" alt="Types of Footprinting" width="600">
 </center>
 
 ### 2.1 Passive Footprinting
@@ -75,7 +75,7 @@ Footprinting can be:
 - Cloud usage (IaaS / PaaS)
 
 <center>
-  <img src="images/109.jpg" alt="Information Obtained in Footprinting" width="600">
+  <img src="Images/109.jpg" alt="Information Obtained in Footprinting" width="600">
 </center>
 
 ---
@@ -100,7 +100,7 @@ ping iare.ac.in
 ```
 
 <center>
-  <img src="images/110.png" alt="Ping" width="600">
+  <img src="Images/110.png" alt="Ping" width="600">
 </center>
 
 ### Key Points
@@ -121,11 +121,11 @@ ip:<ip-address>
 ```
 
 <center>
-  <img src="images/111.png" alt="same ip address search" width="600">
+  <img src="Images/111.png" alt="same ip address search" width="600">
 </center>
 
 <center>
-  <img src="images/112.png" alt="many websites are running on the same web server" width="600">
+  <img src="Images/112.png" alt="many websites are running on the same web server" width="600">
 </center>
 
 This technique is known as **Reverse IP Lookup**.
@@ -142,7 +142,7 @@ This technique is known as **Reverse IP Lookup**.
 ---
 
 <center>
-  <img src="images/113.png" alt="route -n" width="600">
+  <img src="Images/113.png" alt="route -n" width="600">
 </center>
 
 ## 8. Wappalyzer Installation (Parrot OS – Firefox)
@@ -153,7 +153,7 @@ This technique is known as **Reverse IP Lookup**.
 3. Search for **Wappalyzer**
 
 <center>
-  <img src="images/114.png" alt="Wappalyzer Firefox" width="600">
+  <img src="Images/114.png" alt="Wappalyzer Firefox" width="600">
 </center>
 
 4. Install the extension
@@ -162,7 +162,7 @@ This technique is known as **Reverse IP Lookup**.
 7. Click on Wappalyzer icon to view technologies used
 
 <center>
-  <img src="images/115.png" alt="Wappalyzer icon to view technologies used" width="600">
+  <img src="Images/115.png" alt="Wappalyzer icon to view technologies used" width="600">
 </center>
 
 ### Information Revealed
@@ -196,11 +196,11 @@ whois <website-name>
 ```
 
 <center>
-  <img src="images/116.png" alt="WHOIS Command" width="600">
+  <img src="Images/116.png" alt="WHOIS Command" width="600">
 </center>
 
 <center>
-  <img src="images/117.png" alt="WHOIS Command" width="600">
+  <img src="Images/117.png" alt="WHOIS Command" width="600">
 </center>
 
 ### Information Obtained
@@ -223,22 +223,22 @@ whois <website-name>
   - Fake Name Generator
 
 <center>
-<img src="images/118.png" alt="Fake Name Generator" width="600">
+<img src="Images/118.png" alt="Fake Name Generator" width="600">
 </center>
 
 <center>
-<img src="images/119.png" alt="Fake Name Generator" width="600">
+<img src="Images/119.png" alt="Fake Name Generator" width="600">
 </center>
 
 - For profile pictures (DP):
   - `this-person-does-not-exist`
 
 <center>
-<img src="images/120.png" alt="this-person-does-not-exist" width="600">
+<img src="Images/120.png" alt="this-person-does-not-exist" width="600">
 </center>
 
 <center>
-<img src="images/121.png" alt="this-person-does-not-exist" width="600">
+<img src="Images/121.png" alt="this-person-does-not-exist" width="600">
 </center>
 ---
 
@@ -251,19 +251,19 @@ whois <website-name>
 1. Visit Grabify website
 
 <center>
-<img src="images/122.png" alt="Grabify website" width="600">
+<img src="Images/122.png" alt="Grabify website" width="600">
 </center>
 
 2. Enter any URL
 
 <center>
-<img src="images/123.png" alt="Enter any URLto be changed" width="600">
+<img src="Images/123.png" alt="Enter any URLto be changed" width="600">
 </center>
 
 3. Generate tracking link
 
 <center>
-<img src="images/124.png" alt="generates a fake link" width="600">
+<img src="Images/124.png" alt="generates a fake link" width="600">
 </center>
 
 4. Share the link with the target
@@ -285,11 +285,11 @@ whois <website-name>
 1. Clone the tool
 
 <center>
-<img src="images/125.png" alt="hound website" width="600">
+<img src="Images/125.png" alt="hound website" width="600">
 </center>
 
 <center>
-<img src="images/126.png" alt="Clone the tool" width="600">
+<img src="Images/126.png" alt="Clone the tool" width="600">
 </center>
 
 2. Navigate to the directory
@@ -309,7 +309,7 @@ ls -la hound.sh
 ./hound.sh
 ```
 <center>
-<img src="images/127.png" alt="Execute the tool" width="600">
+<img src="Images/127.png" alt="Execute the tool" width="600">
 </center>
 ---
 
@@ -319,11 +319,11 @@ ls -la hound.sh
 - Shows torrent or download activity associated with a public IP address
 
 <center>
-<img src="images/128.png" alt="I Know What You Download website" width="600">
+<img src="Images/128.png" alt="I Know What You Download website" width="600">
 </center>
 
 <center>
-<img src="images/129.png" alt="I Know What You Download website" width="600">
+<img src="Images/129.png" alt="I Know What You Download website" width="600">
 </center>
 
 ### Key Point
