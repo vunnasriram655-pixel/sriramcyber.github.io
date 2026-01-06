@@ -15,7 +15,7 @@ Metadata is data about data. It contains hidden information embedded inside:
 - Websites  
 
 <center>
-  <img src="images/What-is-Metadata.png" alt="1" width="600">
+  <img src="Images/What-is-Metadata.png" alt="1" width="600">
 </center>
 
 
@@ -24,7 +24,7 @@ Metadata is data about data. It contains hidden information embedded inside:
 - Last modified date  
 - Author name  
 - Software used  
-- GPS location (images)  
+- GPS location (Images)  
 - Camera or device details  
 
 ### Risk
@@ -51,11 +51,11 @@ exiftool <filename>
 5. Run ExifTool on the image  
 
 <center>
-  <img src="images/130.png" alt="1" width="600">
+  <img src="Images/130.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/131.png" alt="1" width="600">
+  <img src="Images/131.png" alt="1" width="600">
 </center>
 
 
@@ -78,7 +78,7 @@ metadata2go
 - Reduces sensitive information leakage  
 
 <center>
-  <img src="images/metadata remover.png" alt="1" width="600">
+  <img src="Images/metadata remover.png" alt="1" width="600">
 </center>
 
 
@@ -100,7 +100,7 @@ Metagoofil extracts metadata from publicly available documents such as:
 sudo apt install metagoofil
 
 <center>
-  <img src="images/132.png" alt="1" width="600">
+  <img src="Images/132.png" alt="1" width="600">
 </center>
 
 
@@ -111,7 +111,7 @@ sudo apt --fix-broken install
 sudo metagoofil --help
 
 <center>
-  <img src="images/144.png" alt="1" width="600">
+  <img src="Images/144.png" alt="1" width="600">
 </center>
 
 
@@ -125,7 +125,7 @@ sudo metagoofil --help
 sudo metagoofil -d <website name > -l <no. of search> -n <no.od download> -t <types of a file> -w
 
 <center>
-  <img src="images/145.png" alt="1" width="600">
+  <img src="Images/145.png" alt="1" width="600">
 </center>
 
 
@@ -144,7 +144,7 @@ TheHarvester collects publicly available information such as:
 sudo theHarvester -d <domain name> -b <source name>
 
 <center>
-  <img src="images/133.png" alt="1" width="600">
+  <img src="Images/133.png" alt="1" width="600">
 </center>
 
 
@@ -164,7 +164,7 @@ sudo theHarvester -d <domain name> -b <source name>
 - Insecam 
 
 <center>
-  <img src="images/134.png" alt="1" width="600">
+  <img src="Images/134.png" alt="1" width="600">
 </center>
 
 
@@ -173,15 +173,15 @@ sudo theHarvester -d <domain name> -b <source name>
 - Highlights real-world IoT security risks  
 
 <center>
-  <img src="images/135.png" alt="1" width="600">
+  <img src="Images/135.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/136.png" alt="1" width="600">
+  <img src="Images/136.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/137.png" alt="1" width="600">
+  <img src="Images/137.png" alt="1" width="600">
 </center>
 
 
@@ -216,11 +216,11 @@ It indexes:
 6. Login  
 
 <center>
-  <img src="images/138.png" alt="1" width="600">
+  <img src="Images/138.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/139.png" alt="1" width="600">
+  <img src="Images/139.png" alt="1" width="600">
 </center>
 
 ---
@@ -236,11 +236,11 @@ Example:
 webcam country:IN
 
 <center>
-  <img src="images/146.png" alt="1" width="600">
+  <img src="Images/146.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/140.png" alt="1" width="600">
+  <img src="Images/140.png" alt="1" width="600">
 </center>
 
 ---
@@ -254,15 +254,15 @@ webcam country:IN
 - Approximate location 
 
 <center>
-  <img src="images/141.png" alt="1" width="600">
+  <img src="Images/141.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/142.png" alt="1" width="600">
+  <img src="Images/142.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/143.png" alt="1" width="600">
+  <img src="Images/143.png" alt="1" width="600">
 </center>
 
 ---
