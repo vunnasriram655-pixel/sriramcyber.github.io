@@ -99,7 +99,7 @@ To scan every possible TCP port on a target, we use `-p-`.
 
 
 <center>
-  <img src="images/239.png" alt="1" width="600">
+  <img src="Images/239.png" alt="1" width="600">
 </center>
 
 
@@ -118,11 +118,11 @@ Instead of scanning all ports, we can scan only a specific range.
 - `nmap 192.168.1.52 -p 1-2000`
 
 <center>
-  <img src="images/240.png" alt="1" width="600">
+  <img src="Images/240.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/243.png" alt="1" width="600">
+  <img src="Images/243.png" alt="1" width="600">
 </center>
 
 ### When to use this?
@@ -138,7 +138,7 @@ Nmap can scan the top most commonly used ports using `--top-ports`.
 - `nmap 192.168.1.52 --top-ports 100`
 
 <center>
-  <img src="images/241.png" alt="1" width="600">
+  <img src="Images/241.png" alt="1" width="600">
 </center>
 
 ### Benefit
@@ -155,7 +155,7 @@ Fast scan checks the top 100 most common ports quickly.
 - `nmap 192.168.1.52 -F`
 
 <center>
-  <img src="images/242.png" alt="1" width="600">
+  <img src="Images/242.png" alt="1" width="600">
 </center>
 
 ### Why use Fast Scan?
@@ -174,7 +174,7 @@ Service version detection is used to identify:
 - `nmap <IP> -sV`
 
 <center>
-  <img src="images/244.png" alt="1" width="600">
+  <img src="Images/244.png" alt="1" width="600">
 </center>
 
 ### What does it detect?
@@ -202,7 +202,7 @@ Once we know which services are running, we can access them using appropriate to
 - `ssh msfadmin@192.168.1.55`
 
 <center>
-  <img src="images/252.png" alt="1" width="600">
+  <img src="Images/252.png" alt="1" width="600">
 </center>
 
 This command attempts SSH login to the target device with the user `msfadmin`.
@@ -216,7 +216,7 @@ Nmap can detect the operating system of the target machine using OS fingerprinti
 - `sudo nmap -O <IP>`
 
 <center>
-  <img src="images/245.png" alt="1" width="600">
+  <img src="Images/245.png" alt="1" width="600">
 </center>
 
 ### What it detects?
@@ -235,7 +235,7 @@ Nmap runs built-in scripts to automatically collect extra details from the targe
 - `sudo nmap <target-IP> -p <port> -sV`
 
 <center>
-  <img src="images/254.png" alt="1" width="600">
+  <img src="Images/254.png" alt="1" width="600">
 </center>
 
 ## NSE Script Scanning (Nmap Scripting Engine)
@@ -249,7 +249,7 @@ Nmap runs built-in scripts to automatically collect extra details from the targe
 - `locate *.nse`
 
 <center>
-  <img src="images/253.png" alt="1" width="600">
+  <img src="Images/253.png" alt="1" width="600">
 </center>
 
 This helps list available `.nse` scripts installed on your system.
@@ -284,11 +284,11 @@ To understand how a specific NSE script works, use script help.
 - `nmap --script-help <scriptname>`
 
 <center>
-  <img src="images/246.png" alt="1" width="600">
+  <img src="Images/246.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/255.png" alt="1" width="600">
+  <img src="Images/255.png" alt="1" width="600">
 </center>
 
 ### Why it is useful?
@@ -327,11 +327,11 @@ Instead of scanning all ports aggressively, we can limit the scan to selected po
 - `nmap 192.168.1.52 -A -p 21,22,80,443`
 
 <center>
-  <img src="images/247.png" alt="1" width="600">
+  <img src="Images/247.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/248.png" alt="1" width="600">
+  <img src="Images/248.png" alt="1" width="600">
 </center>
 
 ### Why use this?
@@ -347,11 +347,11 @@ If we have multiple target IP addresses, we can store them in a file and scan al
 - `nmap -iL targets.txt -p 80,443`
 
 <center>
-  <img src="images/249.png" alt="1" width="600">
+  <img src="Images/249.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/251.png" alt="1" width="600">
+  <img src="Images/251.png" alt="1" width="600">
 </center>
 
 ### Benefit
@@ -368,7 +368,7 @@ UDP scanning checks UDP services such as DNS, SNMP, NTP, etc.
 - `sudo nmap <IP> -sU`
 
 <center>
-  <img src="images/250.png" alt="1" width="600">
+  <img src="Images/250.png" alt="1" width="600">
 </center>
 
 ### Notes on UDP Scanning
@@ -396,7 +396,7 @@ To reduce port scanning risk:
 - Continuous monitoring of network activity
 
 <center>
-  <img src="images/256.png" alt="1" width="600">
+  <img src="Images/256.png" alt="1" width="600">
 </center>
 
 These measures reduce attackers’ ability to identify services and vulnerabilities.
