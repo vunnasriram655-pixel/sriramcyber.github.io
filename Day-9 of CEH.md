@@ -28,11 +28,11 @@
 ### Official website: https://nmap.org
 
 <center>
-  <img src="images/206.png" alt="1" width="600">
+  <img src="Images/206.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/207.png" alt="1" width="600">
+  <img src="Images/207.png" alt="1" width="600">
 </center>
 
 
@@ -49,7 +49,7 @@ It disables port scanning and checks which hosts are alive.
  - `nmap -sn 192.168.1.1/24`
   
 <center>
-  <img src="images/208.png" alt="1" width="600">
+  <img src="Images/208.png" alt="1" width="600">
 </center>
   
 ### Observations
@@ -106,7 +106,7 @@ If Nmap receives any response to any one of these packets, it marks the device a
 - `sudo nmap -sn 192.168.1.1/24`
 
 <center>
-  <img src="images/209.png" alt="1" width="600">
+  <img src="Images/209.png" alt="1" width="600">
 </center>
 
 ---
@@ -127,22 +127,22 @@ That is why:
 - fing
   
 <center>
-  <img src="images/210.png" alt="1" width="600">
+  <img src="Images/210.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/211.png" alt="1" width="600">
+  <img src="Images/211.png" alt="1" width="600">
 </center>
 
 
 - portroid
 -   
 <center>
-  <img src="images/212.png" alt="1" width="600">
+  <img src="Images/212.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/213.png" alt="1" width="600">
+  <img src="Images/213.png" alt="1" width="600">
 </center>
 
 ## ICMP (Internet Control Message Protocol)
@@ -190,7 +190,7 @@ That is why:
 3. **ACK** → Client confirms  
  
 <center>
-  <img src="images/214.png" alt="1" width="600">
+  <img src="Images/214.png" alt="1" width="600">
 </center>
 
 Once completed, the connection is established.
@@ -200,7 +200,7 @@ This mechanism ensures:
 - Reliable communication  
   
 <center>
-  <img src="images/215.png" alt="1" width="600">
+  <img src="Images/215.png" alt="1" width="600">
 </center>
 
 ---
@@ -208,7 +208,7 @@ This mechanism ensures:
 ## UDP (User Datagram Protocol)
   
 <center>
-  <img src="images/216.png" alt="1" width="600">
+  <img src="Images/216.png" alt="1" width="600">
 </center>
 
 ### Key Features
@@ -236,11 +236,11 @@ This mechanism ensures:
 ## TCP vs UDP (Comparison)
   
 <center>
-  <img src="images/217.png" alt="1" width="600">
+  <img src="Images/217.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/218.png" alt="1" width="600">
+  <img src="Images/218.png" alt="1" width="600">
 </center>
 
 
@@ -262,11 +262,11 @@ This mechanism ensures:
 1. Download Metasploitable 2 image  
 2.   
 <center>
-  <img src="images/219.png" alt="1" width="600">
+  <img src="Images/219.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/220.png" alt="1" width="600">
+  <img src="Images/220.png" alt="1" width="600">
 </center>
 
 3. Install Oracle VirtualBox  
@@ -281,11 +281,11 @@ This mechanism ensures:
 - Password: `msfadmin`  
   
 <center>
-  <img src="images/221.png" alt="1" width="600">
+  <img src="Images/221.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/222.png" alt="1" width="600">
+  <img src="Images/222.png" alt="1" width="600">
 </center>
 
 
@@ -308,27 +308,27 @@ This VM is commonly used with Kali Linux for CEH practice labs.
  A **Port** is a logical communication endpoint used by a device to identify specific services or applications running on it.
    
 <center>
-  <img src="images/224.png" alt="1" width="600">
+  <img src="Images/224.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/233.png" alt="1" width="600">
+  <img src="Images/233.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/234.png" alt="1" width="600">
+  <img src="Images/234.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/235.png" alt="1" width="600">
+  <img src="Images/235.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/236.png" alt="1" width="600">
+  <img src="Images/236.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/237.png" alt="1" width="600">
+  <img src="Images/237.png" alt="1" width="600">
 </center>
 
 
@@ -345,7 +345,7 @@ Port Range:
 - Total ports available: `0 – 65535`
 
 <center>
-  <img src="images/225.png" alt="1" width="600">
+  <img src="Images/225.png" alt="1" width="600">
 </center>
 
 ---
@@ -354,7 +354,7 @@ Port Range:
  Ports are classified into three main categories:
    
 <center>
-  <img src="images/223.png" alt="1" width="600">
+  <img src="Images/223.png" alt="1" width="600">
 </center>
 
 
@@ -396,7 +396,7 @@ These ports are automatically assigned and released after use.
  When performing port scanning, Nmap shows different port states:
   
 <center>
-  <img src="images/238.png" alt="1" width="600">
+  <img src="Images/238.png" alt="1" width="600">
 </center>
 
 ### 1. Open
@@ -408,19 +408,19 @@ Example:
 - `80/tcp open http`
   
 <center>
-  <img src="images/226.png" alt="1" width="600">
+  <img src="Images/226.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/227.png" alt="1" width="600">
+  <img src="Images/227.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/228.png" alt="1" width="600">
+  <img src="Images/228.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/229.png" alt="1" width="600">
+  <img src="Images/229.png" alt="1" width="600">
 </center>
 
 ---
@@ -444,15 +444,15 @@ Example:
 - `443/tcp filtered https`
   
 <center>
-  <img src="images/230.png" alt="1" width="600">
+  <img src="Images/230.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/231.png" alt="1" width="600">
+  <img src="Images/231.png" alt="1" width="600">
 </center>
   
 <center>
-  <img src="images/232.png" alt="1" width="600">
+  <img src="Images/232.png" alt="1" width="600">
 </center>
 
 ---
