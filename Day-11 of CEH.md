@@ -32,11 +32,11 @@
 Enumeration is the process of actively extracting detailed information from a target system by sending structured queries and analyzing responses.
 
 <center>
-  <img src="images/257.png" alt="2" width="600">
+  <img src="Images/257.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/258.png" alt="2" width="600">
+  <img src="Images/258.png" alt="2" width="600">
 </center>
 
 
@@ -89,7 +89,7 @@ DNS Resolver acts as the DNS client.
 DNS Enumeration is the process of collecting all DNS-related information about a target domain.
 
 <center>
-  <img src="images/259.png" alt="2" width="600">
+  <img src="Images/259.png" alt="2" width="600">
 </center>
 
 
@@ -115,11 +115,11 @@ SOA record – Zone authority information
 PTR record – Reverse DNS mapping  
 
 <center>
-  <img src="images/260.png" alt="2" width="600">
+  <img src="Images/260.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/261.png" alt="2" width="600">
+  <img src="Images/261.png" alt="2" width="600">
 </center>
 
 
@@ -132,11 +132,11 @@ nslookup:
 Used for quick DNS lookups and basic DNS enumeration.
 
 <center>
-  <img src="images/263.png" alt="2" width="600">
+  <img src="Images/263.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/264.png" alt="2" width="600">
+  <img src="Images/264.png" alt="2" width="600">
 </center>
 
 ## DNS Enumeration Process
@@ -148,11 +148,11 @@ Used for quick DNS lookups and basic DNS enumeration.
 5. Test zone transfer vulnerability
 
 <center>
-  <img src="images/262.png" alt="2" width="600">
+  <img src="Images/262.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/265.png" alt="2" width="600">
+  <img src="Images/265.png" alt="2" width="600">
 </center>
 
 ## DNS Zone Transfer (AXFR)
@@ -162,23 +162,23 @@ Zone Transfer copies DNS records from one DNS server to another.
 AXFR refers to a full zone transfer.
 
 <center>
-  <img src="images/266.png" alt="2" width="600">
+  <img src="Images/266.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/267.png" alt="2" width="600">
+  <img src="Images/267.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/268.png" alt="2" width="600">
+  <img src="Images/268.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/269.png" alt="2" width="600">
+  <img src="Images/269.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/270.png" alt="2" width="600">
+  <img src="Images/270.png" alt="2" width="600">
 </center>
 
 Risk:
@@ -199,7 +199,7 @@ Dig can query specific DNS servers, return short output, and trace DNS resolutio
 ## Nmap & DNS Enumeration
 
 <center>
-  <img src="images/271.png" alt="2" width="600">
+  <img src="Images/271.png" alt="2" width="600">
 </center>
 
 DNS operates on Port 53.
@@ -212,7 +212,7 @@ Nmap can be used for host discovery, firewall detection, and DNS port scanning.
 ## FTP Enumeration Basics
 
 <center>
-  <img src="images/272.png" alt="2" width="600">
+  <img src="Images/272.png" alt="2" width="600">
 </center>
 
 FTP (File Transfer Protocol) allows file transfer between client and server.
@@ -229,23 +229,23 @@ Dictionary Attack:
 Uses predefined wordlists such as admin, root, and password.
 
 <center>
-  <img src="images/279.png" alt="2" width="600">
+  <img src="Images/279.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/278.png" alt="2" width="600">
+  <img src="Images/278.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/280.png" alt="2" width="600">
+  <img src="Images/280.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/281.png" alt="2" width="600">
+  <img src="Images/281.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/282.png" alt="2" width="600">
+  <img src="Images/282.png" alt="2" width="600">
 </center>
 
 
@@ -260,7 +260,7 @@ Combines dictionary words with numbers or symbols such as admin123 or root@2026.
 Crunch is used to generate custom password lists based on defined character sets and length.
 
 <center>
-  <img src="images/277.png" alt="2" width="600">
+  <img src="Images/277.png" alt="2" width="600">
 </center>
 
 ## Password Cracking Tools
@@ -276,11 +276,11 @@ Offline password cracking tool used to crack hashed passwords.
 CeWL crawls websites and generates custom wordlists based on depth and minimum word length.
 
 <center>
-  <img src="images/275.png" alt="2" width="600">
+  <img src="Images/275.png" alt="2" width="600">
 </center>
 
 <center>
-  <img src="images/276.png" alt="2" width="600">
+  <img src="Images/276.png" alt="2" width="600">
 </center>
 
 
