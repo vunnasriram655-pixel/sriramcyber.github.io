@@ -15,7 +15,7 @@ A **network** is a collection of connected devices such as:
 These devices communicate with each other to share data and resources.
 
 <center>
-  <img src="images/173.png" alt="Network" width="600">
+  <img src="Images/173.png" alt="Network" width="600">
 </center>
 
 ---
@@ -40,7 +40,7 @@ It is divided into small units called **packets**.
 A **Network Interface Controller (NIC)** is a hardware component that connects a device to a network.
 
 <center>
-  <img src="images/174.png" alt="Network Interface Controller" width="600">
+  <img src="Images/174.png" alt="Network Interface Controller" width="600">
 </center>
 
 ### Key Points
@@ -55,29 +55,29 @@ A **Network Interface Controller (NIC)** is a hardware component that connects a
 - ipconfig
 
 <center>
-  <img src="images/175.png" alt="ip Address" width="600">
+  <img src="Images/175.png" alt="ip Address" width="600">
 </center>
 
 - ipconfig /all
 
 <center>
-  <img src="images/176.png" alt="Mac Adress" width="600">
+  <img src="Images/176.png" alt="Mac Adress" width="600">
 </center>
 
 <center>
-  <img src="images/177.png" alt="Mac Adress" width="600">
+  <img src="Images/177.png" alt="Mac Adress" width="600">
 </center>
 
 #### Linux / Parrot OS
 - ifconfig
 
 <center>
-  <img src="images/178.png" alt="ifconfig command" width="600">
+  <img src="Images/178.png" alt="ifconfig command" width="600">
 </center>
 - ip a
 
 <center>
-  <img src="images/179.png" alt="ip a command" width="600">
+  <img src="Images/179.png" alt="ip a command" width="600">
 </center>
 
 ---
@@ -117,7 +117,7 @@ A **protocol** is a set of rules and regulations that devices follow to communic
 - Less secure and inefficient
 
 <center>
-  <img src="images/180.png" alt="Hub" width="600">
+  <img src="Images/180.png" alt="Hub" width="600">
 </center>
 
 ### Switch
@@ -126,7 +126,7 @@ A **protocol** is a set of rules and regulations that devices follow to communic
 - Faster and more secure
 
 <center>
-  <img src="images/181.png" alt="Switch" width="600">
+  <img src="Images/181.png" alt="Switch" width="600">
 </center>
 
 ### Router
@@ -135,7 +135,7 @@ A **protocol** is a set of rules and regulations that devices follow to communic
 - Connects LAN to the Internet
 
 <center>
-  <img src="images/182.png" alt="Router" width="600">
+  <img src="Images/182.png" alt="Router" width="600">
 </center>
 
 ---
@@ -157,7 +157,7 @@ A **protocol** is a set of rules and regulations that devices follow to communic
 ## Types of Scanning (CEH Important)
 
 <center>
-  <img src="images/183.png" alt="Types of Scanning" width="600">
+  <img src="Images/183.png" alt="Types of Scanning" width="600">
 </center>
 
 ### Network Scanning
@@ -186,7 +186,7 @@ An **IP address (Internet Protocol address)** is a unique identifier assigned to
 - Example: 192.168.1.1
 
 <center>
-  <img src="images/184.png" alt="IPv4" width="600">
+  <img src="Images/184.png" alt="IPv4" width="600">
 </center>
 
 ### IPv6
@@ -195,7 +195,7 @@ An **IP address (Internet Protocol address)** is a unique identifier assigned to
 - Example: 2001:0db8:85a3::8a2e:0370:7334
 
 <center>
-  <img src="images/185.png" alt="IPv6" width="600">
+  <img src="Images/185.png" alt="IPv6" width="600">
 </center>
 
 ---
@@ -203,7 +203,7 @@ An **IP address (Internet Protocol address)** is a unique identifier assigned to
 ## IPv4 Address Classification
 
 <center>
-  <img src="images/189.png" alt="IPv4 Address Classification" width="600">
+  <img src="Images/189.png" alt="IPv4 Address Classification" width="600">
 </center>
 
 ---
@@ -214,7 +214,7 @@ An **IP address (Internet Protocol address)** is a unique identifier assigned to
 - Host part
 
 <center>
-  <img src="images/204.png" alt="IPv4 Address Structure" width="600">
+  <img src="Images/204.png" alt="IPv4 Address Structure" width="600">
 </center>
 
 ---
@@ -232,7 +232,7 @@ A **subnet mask** identifies:
 - 255.255.255.0
 
 <center>
-  <img src="images/205.png" alt="Subnet Mask" width="600">
+  <img src="Images/205.png" alt="Subnet Mask" width="600">
 </center>
 
 ### Meaning
@@ -276,11 +276,11 @@ Example: ARP request in a local network.
 CIDR conversion is the method of representing an IP address with a prefix length using `/` notation to specify the number of network bits, allowing flexible subnetting and efficient IP usage.
 
 <center>
-  <img src="images/202.png" alt="CIDR" width="600">
+  <img src="Images/202.png" alt="CIDR" width="600">
 </center>
 
 <center>
-  <img src="images/203.png" alt="CIDR" width="600">
+  <img src="Images/203.png" alt="CIDR" width="600">
 </center>
 
 ---
@@ -295,7 +295,7 @@ CIDR conversion is the method of representing an IP address with a prefix length
 - ping <IP address>
 
 <center>
-  <img src="images/186.png" alt="PING command" width="600">
+  <img src="Images/186.png" alt="PING command" width="600">
 </center>
 
 ### Useful Options
@@ -304,11 +304,11 @@ CIDR conversion is the method of representing an IP address with a prefix length
 - ping -c 4
 
 <center>
-  <img src="images/187.png" alt="PING command" width="600">
+  <img src="Images/187.png" alt="PING command" width="600">
 </center>
 
 <center>
-  <img src="images/188.png" alt="PING command" width="600">
+  <img src="Images/188.png" alt="PING command" width="600">
 </center>
 
 ### Note
@@ -323,7 +323,7 @@ Many systems block ICMP to prevent DoS/DDoS attacks.
 ARP is a network protocol used to map an IP address to its corresponding MAC address within a local network.
 
 <center>
-  <img src="images/193.png" alt="ARP" width="600">
+  <img src="Images/193.png" alt="ARP" width="600">
 </center>
 
 ### ARP Mapping
@@ -337,15 +337,15 @@ Devices communicate using MAC addresses within a local network.
 - ARP Reply → Unicast
 
 <center>
-  <img src="images/190.png" alt="ARP" width="600">
+  <img src="Images/190.png" alt="ARP" width="600">
 </center>
 
 <center>
-  <img src="images/191.png" alt="PING command" width="600">
+  <img src="Images/191.png" alt="PING command" width="600">
 </center>
 
 <center>
-  <img src="images/192.png" alt="PING command" width="600">
+  <img src="Images/192.png" alt="PING command" width="600">
 </center>
 
 ---
@@ -361,11 +361,11 @@ Netdiscover is a network discovery tool used to identify live hosts, IP addresse
 - Example: 192.168.1.0/24
 
 <center>
-  <img src="images/194.png" alt="Netdiscover" width="600">
+  <img src="Images/194.png" alt="Netdiscover" width="600">
 </center>
 
 <center>
-  <img src="images/195.png" alt="Netdiscover" width="600">
+  <img src="Images/195.png" alt="Netdiscover" width="600">
 </center>
 ---
 
@@ -379,13 +379,13 @@ Angry IP Scanner is used to quickly discover live hosts and open ports in a netw
 2. Search for Angry IP Scanner
 
 <center>
-  <img src="images/196.png" alt="search Angry IP Scanner" width="600">
+  <img src="Images/196.png" alt="search Angry IP Scanner" width="600">
 </center>
 
 3. Open the official website: https://angryip.org
 
 <center>
-  <img src="images/197.png" alt="open Angry IP Scanner" width="600">
+  <img src="Images/197.png" alt="open Angry IP Scanner" width="600">
 </center>
 
 4. Go to Download section
@@ -394,21 +394,21 @@ Angry IP Scanner is used to quickly discover live hosts and open ports in a netw
 7. Launch the tool
 
 <center>
-  <img src="images/198.png" alt="install Angry IP Scanner" width="600">
+  <img src="Images/198.png" alt="install Angry IP Scanner" width="600">
 </center>
 
 8. Verify by scanning an IP range
 
 <center>
-  <img src="images/199.png" alt="Angry IP Scanner" width="600">
+  <img src="Images/199.png" alt="Angry IP Scanner" width="600">
 </center>
 
 <center>
-  <img src="images/200.png" alt="Angry IP Scanner" width="600">
+  <img src="Images/200.png" alt="Angry IP Scanner" width="600">
 </center>
 
 <center>
-  <img src="images/201.png" alt="open Angry IP Scanner" width="600">
+  <img src="Images/201.png" alt="open Angry IP Scanner" width="600">
 </center>
 
 ### Color Indication
