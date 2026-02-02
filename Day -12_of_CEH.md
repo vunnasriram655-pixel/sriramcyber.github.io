@@ -41,23 +41,23 @@ Hydra supports many login services, such as:
 - SMTP  
 
 <center>
-  <img src="images/284.png" alt="1" width="600">
+  <img src="Images/284.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/285.png" alt="1" width="600">
+  <img src="Images/285.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/286.png" alt="1" width="600">
+  <img src="Images/286.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/287.png" alt="1" width="600">
+  <img src="Images/287.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/288.png" alt="1" width="600">
+  <img src="Images/288.png" alt="1" width="600">
 </center>
 
 ### Key Features
@@ -123,19 +123,19 @@ Medusa supports many authentication services, including:
 - LDAP
 
 <center>
-  <img src="images/289.png" alt="1" width="600">
+  <img src="Images/289.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/290.png" alt="1" width="600">
+  <img src="Images/290.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/291.png" alt="1" width="600">
+  <img src="Images/291.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/292.png" alt="1" width="600">
+  <img src="Images/292.png" alt="1" width="600">
 </center>
 ---
 
@@ -182,15 +182,15 @@ Graphical access is helpful for:
 VNC Server allows remote graphical access to the Kali desktop.
 
 <center>
-  <img src="images/293.png" alt="1" width="600">
+  <img src="Images/293.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/294.png" alt="1" width="600">
+  <img src="Images/294.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/295.png" alt="1" width="600">
+  <img src="Images/295.png" alt="1" width="600">
 </center>
 
 # Accessing Metasploit Graphically Using RDP (Remote Desktop Protocol)
@@ -199,27 +199,27 @@ VNC Server allows remote graphical access to the Kali desktop.
 
 **Remote Desktop Protocol (RDP)** allows graphical remote access to a system over the network. 
 <center>
-  <img src="images/297.png" alt="1" width="600">
+  <img src="Images/297.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/298.png" alt="1" width="600">
+  <img src="Images/298.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/299.png" alt="1" width="600">
+  <img src="Images/299.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/300.png" alt="1" width="600">
+  <img src="Images/300.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/301.png" alt="1" width="600">
+  <img src="Images/301.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/302.png" alt="1" width="600">
+  <img src="Images/302.png" alt="1" width="600">
 </center>
 
 ---
