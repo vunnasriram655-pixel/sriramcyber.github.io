@@ -190,7 +190,7 @@ Vulnerability assessment is mainly focused on:
 It does not always include exploitation like penetration testing.
 
 <center>
-  <img src="images/317.png" alt="1" width="600">
+  <img src="Images/317.png" alt="1" width="600">
 </center>
 
 ---
@@ -255,15 +255,15 @@ CVE is a globally recognized system that assigns unique IDs to publicly known vu
 `CVE-2026-21221`
 
 <center>
-  <img src="images/318.png" alt="1" width="600">
+  <img src="Images/318.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/319.png" alt="1" width="600">
+  <img src="Images/319.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/320.png" alt="1" width="600">
+  <img src="Images/320.png" alt="1" width="600">
 </center>
 
 ### Breakdown
@@ -362,7 +362,7 @@ Popular platforms include:
 - https://us-cert.gov  
 
 <center>
-  <img src="images/321.png" alt="1" width="600">
+  <img src="Images/321.png" alt="1" width="600">
 </center>
 
 These websites help in:
@@ -377,27 +377,27 @@ These websites help in:
 Vulnerability scanning is an automated process used to detect weaknesses with the help of scanners.
 
 <center>
-  <img src="images/323.png" alt="1" width="600">
+  <img src="Images/323.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/322.png" alt="1" width="600">
+  <img src="Images/322.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/324.png" alt="1" width="600">
+  <img src="Images/324.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/325.png" alt="1" width="600">
+  <img src="Images/325.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/326.png" alt="1" width="600">
+  <img src="Images/326.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/327.png" alt="1" width="600">
+  <img src="Images/327.png" alt="1" width="600">
 </center>
 
 ### How Vulnerability Scanners Work
