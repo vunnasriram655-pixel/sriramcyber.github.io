@@ -48,35 +48,35 @@ NetBIOS assists in name resolution and session establishment.
 Poorly configured NetBIOS services leak sensitive internal network information.
 
 <center>
-  <img src="images/303.png" alt="1" width="600">
+  <img src="Images/303.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/304.png" alt="1" width="600">
+  <img src="Images/304.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/305.png" alt="1" width="600">
+  <img src="Images/305.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/306.png" alt="1" width="600">
+  <img src="Images/306.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/307.png" alt="1" width="600">
+  <img src="Images/307.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/308.png" alt="1" width="600">
+  <img src="Images/308.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/309.png" alt="1" width="600">
+  <img src="Images/309.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/310.png" alt="1" width="600">
+  <img src="Images/310.png" alt="1" width="600">
 </center>
 
 ---
@@ -92,11 +92,11 @@ Password policies (in some cases)
 Misconfigured SMB shares may allow unauthorized access to sensitive data.
 
 <center>
-  <img src="images/311.png" alt="1" width="600">
+  <img src="Images/311.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/312.png" alt="1" width="600">
+  <img src="Images/312.png" alt="1" width="600">
 </center>
 
 ---
@@ -181,11 +181,11 @@ NAT provides isolation but limits enumeration capability.
 Not ideal for internal network scanning labs.
 
 <center>
-  <img src="images/315.png" alt="1" width="600">
+  <img src="Images/315.png" alt="1" width="600">
 </center>
 
 <center>
-  <img src="images/316.png" alt="1" width="600">
+  <img src="Images/316.png" alt="1" width="600">
 </center>
 ---
 
@@ -199,7 +199,7 @@ VM and other LAN devices
 Best mode for enumeration and scanning labs.
 
 <center>
-  <img src="images/314.png" alt="1" width="600">
+  <img src="Images/314.png" alt="1" width="600">
 </center>
 
 ---
@@ -221,7 +221,7 @@ Enable IDS and IPS to detect scanning behavior.
 Enable logging and monitoring for investigation.
 
 <center>
-  <img src="images/313.png" alt="1" width="600">
+  <img src="Images/313.png" alt="1" width="600">
 </center>
 
 ---
